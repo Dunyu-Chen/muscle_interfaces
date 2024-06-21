@@ -1,8 +1,5 @@
-# time stamp of the message
-builtin_interfaces/Time stamp
-
-# sequence of the message
-int64 seq
+# header of the message
+std_msgs/msg/Header header
 
 # muscle position in double
 float64 position
