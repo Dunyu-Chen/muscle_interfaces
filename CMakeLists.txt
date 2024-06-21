@@ -11,6 +11,7 @@ find_package(ament_cmake REQUIRED)
 # further dependencies manually.
 # find_package(<dependency> REQUIRED)
 find_package(builtin_interfaces REQUIRED)
+find_package(std_msgs REQUIRED)
 find_package(rosidl_default_generators REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/MuscleState.msg"
@@ -18,7 +19,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/BinaryValveInput.msg"
   "msg/PwmValveInput.msg"
   "msg/UnifiedInput.msg"
-  DEPENDENCIES builtin_interfaces
+  DEPENDENCIES builtin_interfaces std_msgs
 )
 
 ament_package()

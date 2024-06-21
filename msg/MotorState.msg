@@ -1,5 +1,5 @@
 # header of the message
-std_msgs/msg/Header header
+std_msgs/Header header
 
 # motor position
 float64 angular_position
