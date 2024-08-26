@@ -16,9 +16,7 @@ find_package(rosidl_default_generators REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/MuscleState.msg"
   "msg/MotorState.msg"
-  "msg/BinaryValveInput.msg"
-  "msg/PwmValveInput.msg"
-  "msg/UnifiedInput.msg"
+  "msg/ValveInput.msg"
   DEPENDENCIES builtin_interfaces std_msgs
 )
 

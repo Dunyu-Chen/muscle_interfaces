@@ -1,0 +1,4 @@
+source;share/muscle_interfaces/local_setup.bash
+source;share/muscle_interfaces/local_setup.dsv
+source;share/muscle_interfaces/local_setup.sh
+source;share/muscle_interfaces/local_setup.zsh

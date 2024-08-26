@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "muscle_interfaces__py",
+		"source" : "cmake-build-debug/muscle_interfaces__py"
+	}
+}
