@@ -433,18 +433,6 @@
 			{
 				"command" : 0,
 				"file" : 1,
-				"line" : 309,
-				"parent" : 1
-			},
-			{
-				"command" : 0,
-				"file" : 1,
-				"line" : 320,
-				"parent" : 1
-			},
-			{
-				"command" : 0,
-				"file" : 1,
 				"line" : 320,
 				"parent" : 1
 			},
@@ -469,288 +457,288 @@
 			{
 				"command" : 12,
 				"file" : 2,
-				"line" : 25,
+				"line" : 24,
 				"parent" : 0
 			},
 			{
 				"command" : 4,
 				"file" : 21,
 				"line" : 66,
-				"parent" : 73
+				"parent" : 71
 			},
 			{
 				"command" : 3,
 				"file" : 4,
 				"line" : 48,
-				"parent" : 74
+				"parent" : 72
 			},
 			{
 				"file" : 20,
-				"parent" : 75
+				"parent" : 73
 			},
 			{
 				"command" : 11,
 				"file" : 20,
 				"line" : 47,
-				"parent" : 76
+				"parent" : 74
 			},
 			{
 				"command" : 1,
 				"file" : 20,
 				"line" : 29,
-				"parent" : 77
+				"parent" : 75
 			},
 			{
 				"command" : 0,
 				"file" : 0,
 				"line" : 105,
-				"parent" : 78
+				"parent" : 76
 			},
 			{
 				"command" : 13,
 				"file" : 20,
 				"line" : 48,
-				"parent" : 76
+				"parent" : 74
 			},
 			{
 				"command" : 1,
 				"file" : 20,
 				"line" : 43,
-				"parent" : 80
+				"parent" : 78
 			},
 			{
 				"command" : 0,
 				"file" : 0,
 				"line" : 105,
-				"parent" : 81
+				"parent" : 79
 			},
 			{
 				"command" : 3,
 				"file" : 4,
 				"line" : 48,
-				"parent" : 74
+				"parent" : 72
 			},
 			{
 				"file" : 22,
-				"parent" : 83
+				"parent" : 81
 			},
 			{
 				"command" : 5,
 				"file" : 22,
 				"line" : 20,
-				"parent" : 84
+				"parent" : 82
 			},
 			{
 				"command" : 0,
 				"file" : 5,
 				"line" : 70,
-				"parent" : 85
+				"parent" : 83
 			},
 			{
 				"command" : 0,
 				"file" : 5,
 				"line" : 87,
-				"parent" : 85
+				"parent" : 83
 			},
 			{
 				"command" : 0,
 				"file" : 5,
 				"line" : 70,
-				"parent" : 85
+				"parent" : 83
 			},
 			{
 				"command" : 0,
 				"file" : 5,
 				"line" : 87,
-				"parent" : 85
+				"parent" : 83
 			},
 			{
 				"command" : 14,
 				"file" : 22,
 				"line" : 26,
-				"parent" : 84
+				"parent" : 82
 			},
 			{
 				"command" : 0,
 				"file" : 23,
 				"line" : 91,
-				"parent" : 90
+				"parent" : 88
 			},
 			{
 				"command" : 0,
 				"file" : 23,
 				"line" : 91,
-				"parent" : 90
+				"parent" : 88
 			},
 			{
 				"command" : 0,
 				"file" : 23,
 				"line" : 91,
-				"parent" : 90
+				"parent" : 88
 			},
 			{
 				"command" : 0,
 				"file" : 23,
 				"line" : 107,
-				"parent" : 90
+				"parent" : 88
 			},
 			{
 				"command" : 0,
 				"file" : 23,
 				"line" : 119,
-				"parent" : 90
+				"parent" : 88
 			},
 			{
 				"command" : 3,
 				"file" : 4,
 				"line" : 48,
-				"parent" : 74
+				"parent" : 72
 			},
 			{
 				"file" : 25,
-				"parent" : 96
+				"parent" : 94
 			},
 			{
 				"command" : 15,
 				"file" : 25,
 				"line" : 16,
-				"parent" : 97
+				"parent" : 95
 			},
 			{
 				"command" : 1,
 				"file" : 24,
 				"line" : 29,
-				"parent" : 98
+				"parent" : 96
 			},
 			{
 				"command" : 0,
 				"file" : 0,
 				"line" : 105,
-				"parent" : 99
+				"parent" : 97
 			},
 			{
 				"command" : 3,
 				"file" : 4,
 				"line" : 48,
-				"parent" : 74
+				"parent" : 72
 			},
 			{
 				"file" : 26,
-				"parent" : 101
-			},
-			{
-				"command" : 0,
-				"file" : 26,
-				"line" : 28,
-				"parent" : 102
+				"parent" : 99
 			},
 			{
 				"command" : 0,
 				"file" : 26,
 				"line" : 28,
-				"parent" : 102
+				"parent" : 100
 			},
 			{
 				"command" : 0,
 				"file" : 26,
 				"line" : 28,
-				"parent" : 102
+				"parent" : 100
 			},
 			{
 				"command" : 0,
 				"file" : 26,
 				"line" : 28,
-				"parent" : 102
+				"parent" : 100
 			},
 			{
 				"command" : 0,
 				"file" : 26,
 				"line" : 28,
-				"parent" : 102
+				"parent" : 100
 			},
 			{
 				"command" : 0,
 				"file" : 26,
 				"line" : 28,
-				"parent" : 102
+				"parent" : 100
 			},
 			{
 				"command" : 0,
 				"file" : 26,
 				"line" : 28,
-				"parent" : 102
+				"parent" : 100
 			},
 			{
 				"command" : 0,
 				"file" : 26,
 				"line" : 28,
-				"parent" : 102
+				"parent" : 100
 			},
 			{
 				"command" : 0,
 				"file" : 26,
 				"line" : 28,
-				"parent" : 102
+				"parent" : 100
+			},
+			{
+				"command" : 0,
+				"file" : 26,
+				"line" : 28,
+				"parent" : 100
 			},
 			{
 				"command" : 16,
 				"file" : 21,
 				"line" : 68,
-				"parent" : 73
+				"parent" : 71
 			},
 			{
 				"command" : 0,
 				"file" : 21,
 				"line" : 122,
-				"parent" : 112
+				"parent" : 110
 			},
 			{
 				"command" : 0,
 				"file" : 21,
 				"line" : 122,
-				"parent" : 112
+				"parent" : 110
 			},
 			{
 				"command" : 0,
 				"file" : 21,
 				"line" : 122,
-				"parent" : 112
+				"parent" : 110
 			},
 			{
 				"command" : 0,
 				"file" : 21,
 				"line" : 122,
-				"parent" : 112
+				"parent" : 110
 			},
 			{
 				"command" : 0,
 				"file" : 21,
 				"line" : 122,
-				"parent" : 112
+				"parent" : 110
 			},
 			{
 				"command" : 0,
 				"file" : 21,
 				"line" : 122,
-				"parent" : 112
+				"parent" : 110
 			},
 			{
 				"command" : 0,
 				"file" : 21,
 				"line" : 122,
-				"parent" : 112
+				"parent" : 110
 			},
 			{
 				"command" : 0,
 				"file" : 21,
 				"line" : 150,
-				"parent" : 112
+				"parent" : 110
 			},
 			{
 				"command" : 0,
 				"file" : 21,
 				"line" : 157,
-				"parent" : 112
+				"parent" : 110
 			}
 		]
 	},
@@ -1179,7 +1167,7 @@
 			"destination" : "share/muscle_interfaces/msg",
 			"paths" : 
 			[
-				"cmake-build-debug/rosidl_adapter/muscle_interfaces/msg/BinaryValveInput.idl"
+				"cmake-build-debug/rosidl_adapter/muscle_interfaces/msg/ValveInput.idl"
 			],
 			"type" : "file"
 		},
@@ -1189,7 +1177,7 @@
 			"destination" : "share/muscle_interfaces/msg",
 			"paths" : 
 			[
-				"cmake-build-debug/rosidl_adapter/muscle_interfaces/msg/PwmValveInput.idl"
+				"cmake-build-debug/rosidl_adapter/muscle_interfaces/msg/UnifiedInput.idl"
 			],
 			"type" : "file"
 		},
@@ -1199,7 +1187,7 @@
 			"destination" : "share/muscle_interfaces/msg",
 			"paths" : 
 			[
-				"cmake-build-debug/rosidl_adapter/muscle_interfaces/msg/UnifiedInput.idl"
+				"msg/MuscleState.msg"
 			],
 			"type" : "file"
 		},
@@ -1209,7 +1197,7 @@
 			"destination" : "share/muscle_interfaces/msg",
 			"paths" : 
 			[
-				"msg/MuscleState.msg"
+				"msg/MotorState.msg"
 			],
 			"type" : "file"
 		},
@@ -1219,7 +1207,7 @@
 			"destination" : "share/muscle_interfaces/msg",
 			"paths" : 
 			[
-				"msg/MotorState.msg"
+				"msg/ValveInput.msg"
 			],
 			"type" : "file"
 		},
@@ -1229,32 +1217,12 @@
 			"destination" : "share/muscle_interfaces/msg",
 			"paths" : 
 			[
-				"msg/BinaryValveInput.msg"
-			],
-			"type" : "file"
-		},
-		{
-			"backtrace" : 71,
-			"component" : "Unspecified",
-			"destination" : "share/muscle_interfaces/msg",
-			"paths" : 
-			[
-				"msg/PwmValveInput.msg"
-			],
-			"type" : "file"
-		},
-		{
-			"backtrace" : 72,
-			"component" : "Unspecified",
-			"destination" : "share/muscle_interfaces/msg",
-			"paths" : 
-			[
 				"msg/UnifiedInput.msg"
 			],
 			"type" : "file"
 		},
 		{
-			"backtrace" : 79,
+			"backtrace" : 77,
 			"component" : "Unspecified",
 			"destination" : "share/ament_index/resource_index/package_run_dependencies",
 			"paths" : 
@@ -1264,7 +1232,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 82,
+			"backtrace" : 80,
 			"component" : "Unspecified",
 			"destination" : "share/ament_index/resource_index/parent_prefix_path",
 			"paths" : 
@@ -1274,7 +1242,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 86,
+			"backtrace" : 84,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/environment",
 			"paths" : 
@@ -1284,7 +1252,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 87,
+			"backtrace" : 85,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/environment",
 			"paths" : 
@@ -1294,7 +1262,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 88,
+			"backtrace" : 86,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/environment",
 			"paths" : 
@@ -1304,7 +1272,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 89,
+			"backtrace" : 87,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/environment",
 			"paths" : 
@@ -1314,7 +1282,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 91,
+			"backtrace" : 89,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces",
 			"paths" : 
@@ -1324,7 +1292,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 92,
+			"backtrace" : 90,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces",
 			"paths" : 
@@ -1334,7 +1302,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 93,
+			"backtrace" : 91,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces",
 			"paths" : 
@@ -1344,7 +1312,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 94,
+			"backtrace" : 92,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces",
 			"paths" : 
@@ -1354,7 +1322,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 95,
+			"backtrace" : 93,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces",
 			"paths" : 
@@ -1364,7 +1332,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 100,
+			"backtrace" : 98,
 			"component" : "Unspecified",
 			"destination" : "share/ament_index/resource_index/packages",
 			"paths" : 
@@ -1374,7 +1342,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 103,
+			"backtrace" : 101,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"exportName" : "export_muscle_interfaces__rosidl_generator_c",
@@ -1392,7 +1360,7 @@
 			"type" : "export"
 		},
 		{
-			"backtrace" : 104,
+			"backtrace" : 102,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"exportName" : "export_muscle_interfaces__rosidl_typesupport_fastrtps_c",
@@ -1410,7 +1378,7 @@
 			"type" : "export"
 		},
 		{
-			"backtrace" : 105,
+			"backtrace" : 103,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"exportName" : "export_muscle_interfaces__rosidl_generator_cpp",
@@ -1428,7 +1396,7 @@
 			"type" : "export"
 		},
 		{
-			"backtrace" : 106,
+			"backtrace" : 104,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"exportName" : "export_muscle_interfaces__rosidl_typesupport_fastrtps_cpp",
@@ -1446,7 +1414,7 @@
 			"type" : "export"
 		},
 		{
-			"backtrace" : 107,
+			"backtrace" : 105,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"exportName" : "muscle_interfaces__rosidl_typesupport_introspection_c",
@@ -1464,7 +1432,7 @@
 			"type" : "export"
 		},
 		{
-			"backtrace" : 108,
+			"backtrace" : 106,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"exportName" : "muscle_interfaces__rosidl_typesupport_c",
@@ -1482,7 +1450,7 @@
 			"type" : "export"
 		},
 		{
-			"backtrace" : 109,
+			"backtrace" : 107,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"exportName" : "muscle_interfaces__rosidl_typesupport_introspection_cpp",
@@ -1500,7 +1468,7 @@
 			"type" : "export"
 		},
 		{
-			"backtrace" : 110,
+			"backtrace" : 108,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"exportName" : "muscle_interfaces__rosidl_typesupport_cpp",
@@ -1518,7 +1486,7 @@
 			"type" : "export"
 		},
 		{
-			"backtrace" : 111,
+			"backtrace" : 109,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"exportName" : "export_muscle_interfaces__rosidl_generator_py",
@@ -1536,7 +1504,7 @@
 			"type" : "export"
 		},
 		{
-			"backtrace" : 113,
+			"backtrace" : 111,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"paths" : 
@@ -1546,7 +1514,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 114,
+			"backtrace" : 112,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"paths" : 
@@ -1556,7 +1524,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 115,
+			"backtrace" : 113,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"paths" : 
@@ -1566,7 +1534,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 116,
+			"backtrace" : 114,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"paths" : 
@@ -1576,7 +1544,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 117,
+			"backtrace" : 115,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"paths" : 
@@ -1586,7 +1554,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 118,
+			"backtrace" : 116,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"paths" : 
@@ -1596,7 +1564,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 117,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"paths" : 
@@ -1606,7 +1574,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 120,
+			"backtrace" : 118,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces/cmake",
 			"paths" : 
@@ -1617,7 +1585,7 @@
 			"type" : "file"
 		},
 		{
-			"backtrace" : 121,
+			"backtrace" : 119,
 			"component" : "Unspecified",
 			"destination" : "share/muscle_interfaces",
 			"paths" : 

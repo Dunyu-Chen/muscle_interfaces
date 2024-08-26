@@ -17,6 +17,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/MuscleState.msg"
   "msg/MotorState.msg"
   "msg/ValveInput.msg"
+  "msg/UnifiedInput.msg"
   DEPENDENCIES builtin_interfaces std_msgs
 )
 

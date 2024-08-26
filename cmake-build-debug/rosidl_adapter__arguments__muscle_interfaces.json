@@ -3,8 +3,7 @@
   "non_idl_tuples": [
     "/home/dunyu/Documents/ros_ws/src/muscle_interfaces:msg/MuscleState.msg",
     "/home/dunyu/Documents/ros_ws/src/muscle_interfaces:msg/MotorState.msg",
-    "/home/dunyu/Documents/ros_ws/src/muscle_interfaces:msg/BinaryValveInput.msg",
-    "/home/dunyu/Documents/ros_ws/src/muscle_interfaces:msg/PwmValveInput.msg",
+    "/home/dunyu/Documents/ros_ws/src/muscle_interfaces:msg/ValveInput.msg",
     "/home/dunyu/Documents/ros_ws/src/muscle_interfaces:msg/UnifiedInput.msg"
   ]
 }

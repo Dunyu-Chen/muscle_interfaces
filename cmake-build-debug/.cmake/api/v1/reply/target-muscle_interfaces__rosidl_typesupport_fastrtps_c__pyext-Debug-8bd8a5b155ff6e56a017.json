@@ -512,12 +512,12 @@
 			"id" : "muscle_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df"
 		},
 		{
-			"backtrace" : 47,
-			"id" : "muscle_interfaces__py::@b0cb25d2e4a7e2858d6c"
-		},
-		{
 			"backtrace" : 7,
 			"id" : "muscle_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 47,
+			"id" : "muscle_interfaces__py::@b0cb25d2e4a7e2858d6c"
 		},
 		{
 			"backtrace" : 7,

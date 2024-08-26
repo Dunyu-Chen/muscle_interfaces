@@ -457,11 +457,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/muscle_interfaces/msg" TYPE FILE FILES "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/cmake-build-debug/rosidl_adapter/muscle_interfaces/msg/BinaryValveInput.idl")
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/muscle_interfaces/msg" TYPE FILE FILES "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/cmake-build-debug/rosidl_adapter/muscle_interfaces/msg/PwmValveInput.idl")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/muscle_interfaces/msg" TYPE FILE FILES "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/cmake-build-debug/rosidl_adapter/muscle_interfaces/msg/ValveInput.idl")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -477,11 +473,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/muscle_interfaces/msg" TYPE FILE FILES "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/msg/BinaryValveInput.msg")
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/muscle_interfaces/msg" TYPE FILE FILES "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/msg/PwmValveInput.msg")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/muscle_interfaces/msg" TYPE FILE FILES "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/msg/ValveInput.msg")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)

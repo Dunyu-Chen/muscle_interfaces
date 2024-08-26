@@ -627,8 +627,7 @@
 				0,
 				2,
 				4,
-				6,
-				8
+				6
 			]
 		}
 	],
@@ -848,8 +847,7 @@
 				0,
 				2,
 				4,
-				6,
-				8
+				6
 			]
 		},
 		{
@@ -859,15 +857,14 @@
 				1,
 				3,
 				5,
-				7,
-				9
+				7
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				10
+				8
 			]
 		}
 	],
@@ -903,26 +900,13 @@
 			"backtrace" : 5,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "cmake-build-debug/rosidl_typesupport_microxrcedds_cpp/muscle_interfaces/msg/detail/microxrcedds/binary_valve_input__type_support_cpp.cpp",
+			"path" : "cmake-build-debug/rosidl_typesupport_microxrcedds_cpp/muscle_interfaces/msg/detail/microxrcedds/valve_input__type_support_cpp.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 5,
 			"isGenerated" : true,
-			"path" : "cmake-build-debug/rosidl_typesupport_microxrcedds_cpp/muscle_interfaces/msg/detail/binary_valve_input__rosidl_typesupport_microxrcedds_cpp.hpp",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 5,
-			"compileGroupIndex" : 0,
-			"isGenerated" : true,
-			"path" : "cmake-build-debug/rosidl_typesupport_microxrcedds_cpp/muscle_interfaces/msg/detail/microxrcedds/pwm_valve_input__type_support_cpp.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 5,
-			"isGenerated" : true,
-			"path" : "cmake-build-debug/rosidl_typesupport_microxrcedds_cpp/muscle_interfaces/msg/detail/pwm_valve_input__rosidl_typesupport_microxrcedds_cpp.hpp",
+			"path" : "cmake-build-debug/rosidl_typesupport_microxrcedds_cpp/muscle_interfaces/msg/detail/valve_input__rosidl_typesupport_microxrcedds_cpp.hpp",
 			"sourceGroupIndex" : 1
 		},
 		{

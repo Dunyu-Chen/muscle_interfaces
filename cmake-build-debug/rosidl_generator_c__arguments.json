@@ -5,8 +5,7 @@
   "idl_tuples": [
     "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/cmake-build-debug/rosidl_adapter/muscle_interfaces:msg/MuscleState.idl",
     "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/cmake-build-debug/rosidl_adapter/muscle_interfaces:msg/MotorState.idl",
-    "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/cmake-build-debug/rosidl_adapter/muscle_interfaces:msg/BinaryValveInput.idl",
-    "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/cmake-build-debug/rosidl_adapter/muscle_interfaces:msg/PwmValveInput.idl",
+    "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/cmake-build-debug/rosidl_adapter/muscle_interfaces:msg/ValveInput.idl",
     "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/cmake-build-debug/rosidl_adapter/muscle_interfaces:msg/UnifiedInput.idl"
   ],
   "ros_interface_dependencies": [
@@ -59,8 +58,7 @@
     "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/srv__type_support.h.em",
     "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/cmake-build-debug/rosidl_adapter/muscle_interfaces/msg/MuscleState.idl",
     "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/cmake-build-debug/rosidl_adapter/muscle_interfaces/msg/MotorState.idl",
-    "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/cmake-build-debug/rosidl_adapter/muscle_interfaces/msg/BinaryValveInput.idl",
-    "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/cmake-build-debug/rosidl_adapter/muscle_interfaces/msg/PwmValveInput.idl",
+    "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/cmake-build-debug/rosidl_adapter/muscle_interfaces/msg/ValveInput.idl",
     "/home/dunyu/Documents/ros_ws/src/muscle_interfaces/cmake-build-debug/rosidl_adapter/muscle_interfaces/msg/UnifiedInput.idl",
     "/home/dunyu/Documents/microros_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
     "/home/dunyu/Documents/microros_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl",
