@@ -1,14 +1,14 @@
 # header of the message
-std_msgs/Header header
+builtin_interfaces/Time stamp
 
 # muscle position in double
-float64 position
+float32 position
 
 # muscle velocity in double 
-float64 velocity
+float32 velocity
 
 # muscle pressure in double 
-float64 pressure
+float32 pressure
 
 # muscle contraction force in double 
-float64 force
+float32 force

@@ -1,11 +1,9 @@
 # header of the message
-std_msgs/Header header
+builtin_interfaces/Time stamp
 
 # motor position
-float64 angular_position
+float32 angular_position
 # motor velocity
-float64 angular_velocity 
+float32 angular_velocity
 # motor torque
-float64 torque
-# motor circuit current related to torque
-float64 current
+float32 torque

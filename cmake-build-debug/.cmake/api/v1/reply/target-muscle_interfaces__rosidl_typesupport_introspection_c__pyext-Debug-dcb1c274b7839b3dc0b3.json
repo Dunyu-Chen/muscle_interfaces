@@ -305,13 +305,13 @@
 			{
 				"command" : 9,
 				"file" : 0,
-				"line" : 273,
+				"line" : 229,
 				"parent" : 4
 			},
 			{
 				"command" : 9,
 				"file" : 0,
-				"line" : 229,
+				"line" : 273,
 				"parent" : 4
 			},
 			{
@@ -520,23 +520,23 @@
 	[
 		{
 			"backtrace" : 47,
-			"id" : "muscle_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 48,
-			"id" : "muscle_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df"
+			"id" : "muscle_interfaces__py::@b0cb25d2e4a7e2858d6c"
 		},
 		{
 			"backtrace" : 7,
 			"id" : "muscle_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df"
 		},
 		{
-			"backtrace" : 48,
-			"id" : "muscle_interfaces__py::@b0cb25d2e4a7e2858d6c"
-		},
-		{
 			"backtrace" : 7,
 			"id" : "muscle_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 48,
+			"id" : "muscle_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 47,
+			"id" : "muscle_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "muscle_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",

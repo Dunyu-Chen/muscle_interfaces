@@ -1,6 +1,6 @@
 # header of the message
-std_msgs/Header header
+builtin_interfaces/Time stamp
 
 # valve PWM duty
-float64 inlet_duty
-float64 outlet_duty
+float32 inlet_duty
+float32 outlet_duty

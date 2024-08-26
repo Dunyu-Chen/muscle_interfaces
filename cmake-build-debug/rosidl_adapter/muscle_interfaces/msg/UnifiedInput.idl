@@ -2,18 +2,18 @@
 // with input from muscle_interfaces/msg/UnifiedInput.msg
 // generated code does not contain a copyright notice
 
-#include "std_msgs/msg/Header.idl"
+#include "builtin_interfaces/msg/Time.idl"
 
 module muscle_interfaces {
   module msg {
     @verbatim (language="comment", text=
       "header of the message")
     struct UnifiedInput {
-      std_msgs::msg::Header header;
+      builtin_interfaces::msg::Time stamp;
 
       @verbatim (language="comment", text=
         "mapped input from [-1.0,1.0]")
-      double data;
+      float data;
     };
   };
 };

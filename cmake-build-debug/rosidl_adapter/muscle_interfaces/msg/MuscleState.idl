@@ -2,30 +2,30 @@
 // with input from muscle_interfaces/msg/MuscleState.msg
 // generated code does not contain a copyright notice
 
-#include "std_msgs/msg/Header.idl"
+#include "builtin_interfaces/msg/Time.idl"
 
 module muscle_interfaces {
   module msg {
     @verbatim (language="comment", text=
       "header of the message")
     struct MuscleState {
-      std_msgs::msg::Header header;
+      builtin_interfaces::msg::Time stamp;
 
       @verbatim (language="comment", text=
         "muscle position in double")
-      double position;
+      float position;
 
       @verbatim (language="comment", text=
         "muscle velocity in double")
-      double velocity;
+      float velocity;
 
       @verbatim (language="comment", text=
         "muscle pressure in double")
-      double pressure;
+      float pressure;
 
       @verbatim (language="comment", text=
         "muscle contraction force in double")
-      double force;
+      float force;
     };
   };
 };

@@ -2,20 +2,20 @@
 // with input from muscle_interfaces/msg/ValveInput.msg
 // generated code does not contain a copyright notice
 
-#include "std_msgs/msg/Header.idl"
+#include "builtin_interfaces/msg/Time.idl"
 
 module muscle_interfaces {
   module msg {
     @verbatim (language="comment", text=
       "header of the message")
     struct ValveInput {
-      std_msgs::msg::Header header;
+      builtin_interfaces::msg::Time stamp;
 
       @verbatim (language="comment", text=
         "valve PWM duty")
-      double inlet_duty;
+      float inlet_duty;
 
-      double outlet_duty;
+      float outlet_duty;
     };
   };
 };
